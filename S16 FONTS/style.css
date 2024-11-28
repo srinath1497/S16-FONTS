@@ -1,0 +1,33 @@
+/* #heading1{
+    font-size: 40px;
+}
+
+#heading2{
+    font-size: 3rem;
+} */
+
+#heading1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#heading2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#heading3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#heading4{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#heading5{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#heading6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
